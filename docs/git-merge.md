@@ -1,1 +1,1 @@
-* `git merge --no-ff <branch>`: force a merge commit
+* `git merge --no-ff <branch>`: force a merge committ
